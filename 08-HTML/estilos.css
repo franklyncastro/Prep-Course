@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://st3.depositphotos.com/1875497/18115/i/600/depositphotos_181153954-stock-photo-abstract-blur-restaurant-and-cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+}
+
+
+.divClass{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.divClass{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+img{
+    width: 400px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.thirdDiv{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 600px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin: 0 auto;
+}
+
+
+.spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+ul{
+    text-align: center;
+}
+
+

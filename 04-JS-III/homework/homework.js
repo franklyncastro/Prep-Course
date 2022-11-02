@@ -266,7 +266,6 @@ function continueStatement(numero) {
   return newNum;
 }
 
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
